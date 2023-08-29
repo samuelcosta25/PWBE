@@ -31,3 +31,11 @@ echo "<h4>Resultado da Multiplicação é : ". Multiplicao($num1, $num2) . "</h4
 echo "<h4>Resultado da Divisão é : " . Divisao($num1, $num2) . "</h4>";
 
 ?>
+<<<<<<< HEAD
+=======
+
+<?php 
+
+
+ ?>
+>>>>>>> 6b2771d7cdcb7c0aadfa59faa8f6fba59171e69e
