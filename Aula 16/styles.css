@@ -1,0 +1,33 @@
+body {
+    font-family: arial;
+    background-color: #232323;
+    margin-top: 250px;
+    padding: 0;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    border-top: 300px;
+    flex-direction: column;
+}
+
+h1 {
+    color: white;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-weight: bold;
+}
+
